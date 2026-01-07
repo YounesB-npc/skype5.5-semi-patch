@@ -1,0 +1,1 @@
+This is for me to copy-paste. IF you're seeing this, THIS IS NOT A COMPLETE FIX. This code allows Python to take control of the Skype client and allow for messaging from Skype to be echoed through this script. I plan on using a Teams bridge with this to allow for messaging between those.
